@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "geoapps"
 version = "0.1.0"
-requires-python = ">=3.10"
+requires-python = ">=3.9.21"
 description = "EO utilities for cloud-free mosaics"
 authors = [
-  { name="klaudia", email="kkosciukk@gmail.com" }
+  { name = "klaudia", email = "kkosciukk@gmail.com" }
 ]
 
 [tool.setuptools.packages.find]
